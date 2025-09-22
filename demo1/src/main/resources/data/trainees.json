@@ -1,0 +1,22 @@
+[
+  {
+    "traineeId": 1,
+    "firstName": "Carol",
+    "lastName": "Green",
+    "username": "Carol.Green",
+    "password": "trainee1",
+    "dateOfBirth": "1998-05-10",
+    "address": "12 Park Ave",
+    "active": true
+  },
+  {
+    "traineeId": 2,
+    "firstName": "Dave",
+    "lastName": "Black",
+    "username": "Dave.Black",
+    "password": "trainee2",
+    "dateOfBirth": "1990-11-20",
+    "address": "45 Maple Rd",
+    "active": true
+  }
+]
